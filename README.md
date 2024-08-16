@@ -1,5 +1,5 @@
 # FusionOcc
-> **FusionOcc: Multi-Modal Fusion for 3D Occupancy Prediction, MM 2024** [[paper]()]
+> **FusionOcc: Multi-Modal Fusion for 3D Occupancy Prediction, MM 2024** [[paper](https://openreview.net/forum?id=xX66hwZJWa)]
 
 ## INTRODUCTION
 FusionOcc is a new multi-modal fusion network for 3D occupancy prediction by fusing features of LiDAR point clouds and surround-view images. The model fuses features of these two modals in 2D and 3D space, respectively. Semi-supervised method is utilized to generate dense depth map, which is integrated by BEV images via a cross-modal fusion module. Features of voxelized point clouds are aligned and merged with BEV images' features converted by a view-transformer in 3D space. FusionOcc establishes a new baseline for further research in multi-modal fusion for 3D occupancy prediction, while achieves the new state-of-the-art on Occ3D-nuScenes dataset.
