@@ -1,4 +1,4 @@
-# Intallation Instructions
+# Installation Instructions
 The enviroment is based on [BEVDet](https://github.com/HuangJunJie2017/BEVDet/blob/dev3.0/docker/Dockerfile).
 
 **1. Conda Virtual Environment**
