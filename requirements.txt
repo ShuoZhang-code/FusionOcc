@@ -1,0 +1,10 @@
+pycuda
+lyft_dataset_sdk
+networkx==2.2
+numba==0.53.0
+numpy
+nuscenes-devkit
+plyfile
+scikit-image
+tensorboard
+trimesh==2.35.39
