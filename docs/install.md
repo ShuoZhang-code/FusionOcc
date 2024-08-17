@@ -15,7 +15,6 @@ pip install torch==1.10.1+cu113 torchvision==0.10.1+cu113  -f https://download.p
 **3. MMCV, MMDet, MMSeg**
 ```shell
 pip install mmcv-full==1.5.3 -f https://download.openmmlab.com/mmcv/dist/cu11.3/torch1.10.0/index.html
-
 pip install mmdet==2.25.1 mmsegmentation==0.25.0
 ```
 
