@@ -12,7 +12,7 @@ FusionOcc is a new multi-modal fusion network for 3D occupancy prediction by fus
 
 - [Datasets](docs/datasets.md)
 
-- [Run and Eval](docs/run.md)
+- [Train, Eval and Visualize](docs/getting_started.md)
 
 ## Model Zoo
 
